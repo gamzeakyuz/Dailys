@@ -1,2 +1,4 @@
 # Dailys
- dailys notes
+
+simple diary app made with swift
+
