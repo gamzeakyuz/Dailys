@@ -1,4 +1,4 @@
 # Dailys
 
-simple diary app made with swift
+Core Data kullanarak not detferi tasarımında günlük planlayıcı oluşturma
 
